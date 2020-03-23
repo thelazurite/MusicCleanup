@@ -1,0 +1,14 @@
+C:\Users\thelazurite\RiderProjects\MusicCleanup\MusicCleanup\bin\Debug\netcoreapp2.1\MusicCleanup.deps.json
+C:\Users\thelazurite\RiderProjects\MusicCleanup\MusicCleanup\bin\Debug\netcoreapp2.1\MusicCleanup.runtimeconfig.json
+C:\Users\thelazurite\RiderProjects\MusicCleanup\MusicCleanup\bin\Debug\netcoreapp2.1\MusicCleanup.runtimeconfig.dev.json
+C:\Users\thelazurite\RiderProjects\MusicCleanup\MusicCleanup\bin\Debug\netcoreapp2.1\MusicCleanup.dll
+C:\Users\thelazurite\RiderProjects\MusicCleanup\MusicCleanup\bin\Debug\netcoreapp2.1\MusicCleanup.pdb
+C:\Users\thelazurite\RiderProjects\MusicCleanup\MusicCleanup\obj\Debug\netcoreapp2.1\MusicCleanup.csprojAssemblyReference.cache
+C:\Users\thelazurite\RiderProjects\MusicCleanup\MusicCleanup\obj\Debug\netcoreapp2.1\MusicCleanup.csproj.CoreCompileInputs.cache
+C:\Users\thelazurite\RiderProjects\MusicCleanup\MusicCleanup\obj\Debug\netcoreapp2.1\MusicCleanup.AssemblyInfoInputs.cache
+C:\Users\thelazurite\RiderProjects\MusicCleanup\MusicCleanup\obj\Debug\netcoreapp2.1\MusicCleanup.AssemblyInfo.cs
+C:\Users\thelazurite\RiderProjects\MusicCleanup\MusicCleanup\obj\Debug\netcoreapp2.1\MusicCleanup.dll
+C:\Users\thelazurite\RiderProjects\MusicCleanup\MusicCleanup\obj\Debug\netcoreapp2.1\MusicCleanup.pdb
+C:\Users\thelazurite\RiderProjects\MusicCleanup\MusicCleanup\obj\Debug\netcoreapp2.1\MusicCleanup.csproj.CopyComplete
+C:\Users\thelazurite\RiderProjects\MusicCleanup\MusicCleanup\bin\Debug\netcoreapp2.1\ModifiedATL.dll
+C:\Users\thelazurite\RiderProjects\MusicCleanup\MusicCleanup\bin\Debug\netcoreapp2.1\ModifiedATL.pdb

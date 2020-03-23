@@ -1,0 +1,9 @@
+C:\Users\thelazurite\RiderProjects\MusicCleanup\ModifiedAtl\bin\Debug\netcoreapp2.1\ModifiedATL.deps.json
+C:\Users\thelazurite\RiderProjects\MusicCleanup\ModifiedAtl\bin\Debug\netcoreapp2.1\ModifiedATL.dll
+C:\Users\thelazurite\RiderProjects\MusicCleanup\ModifiedAtl\bin\Debug\netcoreapp2.1\ModifiedATL.pdb
+C:\Users\thelazurite\RiderProjects\MusicCleanup\ModifiedAtl\obj\Debug\netcoreapp2.1\ModifiedAtl.csprojAssemblyReference.cache
+C:\Users\thelazurite\RiderProjects\MusicCleanup\ModifiedAtl\obj\Debug\netcoreapp2.1\ModifiedAtl.csproj.CoreCompileInputs.cache
+C:\Users\thelazurite\RiderProjects\MusicCleanup\ModifiedAtl\obj\Debug\netcoreapp2.1\ModifiedAtl.AssemblyInfoInputs.cache
+C:\Users\thelazurite\RiderProjects\MusicCleanup\ModifiedAtl\obj\Debug\netcoreapp2.1\ModifiedAtl.AssemblyInfo.cs
+C:\Users\thelazurite\RiderProjects\MusicCleanup\ModifiedAtl\obj\Debug\netcoreapp2.1\ModifiedATL.dll
+C:\Users\thelazurite\RiderProjects\MusicCleanup\ModifiedAtl\obj\Debug\netcoreapp2.1\ModifiedATL.pdb

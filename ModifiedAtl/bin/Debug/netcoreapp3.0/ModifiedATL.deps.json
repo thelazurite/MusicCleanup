@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "ModifiedATL/2.6": {
+        "runtime": {
+          "ModifiedATL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ModifiedATL/2.6": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

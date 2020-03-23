@@ -1,0 +1,84 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "ModifiedAtl/2.5.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.0",
+        "compile": {
+          "bin/placeholder/ModifiedAtl.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ModifiedAtl.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ModifiedAtl/2.5.0": {
+      "type": "project",
+      "path": "../ModifiedAtl/ModifiedAtl.csproj",
+      "msbuildProject": "../ModifiedAtl/ModifiedAtl.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.0": [
+      "ModifiedAtl >= 2.5.0"
+    ]
+  },
+  "packageFolders": {
+    "/home/dylane/.nuget/packages/": {},
+    "/usr/share/dotnet/sdk/NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/home/dylane/Documents/Coding Projects/MusicCleanup/MusicCleanup/MusicCleanup.csproj",
+      "projectName": "MusicCleanup",
+      "projectPath": "/home/dylane/Documents/Coding Projects/MusicCleanup/MusicCleanup/MusicCleanup.csproj",
+      "packagesPath": "/home/dylane/.nuget/packages/",
+      "outputPath": "/home/dylane/Documents/Coding Projects/MusicCleanup/MusicCleanup/obj/",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "/home/dylane/.config/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "projectReferences": {
+            "/home/dylane/Documents/Coding Projects/MusicCleanup/ModifiedAtl/ModifiedAtl.csproj": {
+              "projectPath": "/home/dylane/Documents/Coding Projects/MusicCleanup/ModifiedAtl/ModifiedAtl.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.0": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true
+      }
+    }
+  }
+}

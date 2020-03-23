@@ -1,0 +1,14 @@
+/home/dylane/Documents/Coding Projects/MusicCleanup/MusicCleanup/bin/Debug/netcoreapp3.0/MusicCleanup
+/home/dylane/Documents/Coding Projects/MusicCleanup/MusicCleanup/bin/Debug/netcoreapp3.0/MusicCleanup.deps.json
+/home/dylane/Documents/Coding Projects/MusicCleanup/MusicCleanup/bin/Debug/netcoreapp3.0/MusicCleanup.runtimeconfig.json
+/home/dylane/Documents/Coding Projects/MusicCleanup/MusicCleanup/bin/Debug/netcoreapp3.0/MusicCleanup.runtimeconfig.dev.json
+/home/dylane/Documents/Coding Projects/MusicCleanup/MusicCleanup/bin/Debug/netcoreapp3.0/MusicCleanup.dll
+/home/dylane/Documents/Coding Projects/MusicCleanup/MusicCleanup/bin/Debug/netcoreapp3.0/MusicCleanup.pdb
+/home/dylane/Documents/Coding Projects/MusicCleanup/MusicCleanup/bin/Debug/netcoreapp3.0/ModifiedATL.dll
+/home/dylane/Documents/Coding Projects/MusicCleanup/MusicCleanup/bin/Debug/netcoreapp3.0/ModifiedATL.pdb
+/home/dylane/Documents/Coding Projects/MusicCleanup/MusicCleanup/obj/Debug/netcoreapp3.0/MusicCleanup.csprojAssemblyReference.cache
+/home/dylane/Documents/Coding Projects/MusicCleanup/MusicCleanup/obj/Debug/netcoreapp3.0/MusicCleanup.AssemblyInfoInputs.cache
+/home/dylane/Documents/Coding Projects/MusicCleanup/MusicCleanup/obj/Debug/netcoreapp3.0/MusicCleanup.AssemblyInfo.cs
+/home/dylane/Documents/Coding Projects/MusicCleanup/MusicCleanup/obj/Debug/netcoreapp3.0/MusicCleanup.csproj.CopyComplete
+/home/dylane/Documents/Coding Projects/MusicCleanup/MusicCleanup/obj/Debug/netcoreapp3.0/MusicCleanup.dll
+/home/dylane/Documents/Coding Projects/MusicCleanup/MusicCleanup/obj/Debug/netcoreapp3.0/MusicCleanup.pdb

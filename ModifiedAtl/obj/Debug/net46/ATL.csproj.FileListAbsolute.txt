@@ -1,0 +1,8 @@
+C:\Users\thelazurite\RiderProjects\MusicCleanup\ATL\bin\Debug\net46\ATL.dll
+C:\Users\thelazurite\RiderProjects\MusicCleanup\ATL\bin\Debug\net46\ATL.pdb
+C:\Users\thelazurite\RiderProjects\MusicCleanup\ATL\obj\Debug\net46\ATL.csprojAssemblyReference.cache
+C:\Users\thelazurite\RiderProjects\MusicCleanup\ATL\obj\Debug\net46\ATL.csproj.CoreCompileInputs.cache
+C:\Users\thelazurite\RiderProjects\MusicCleanup\ATL\obj\Debug\net46\ATL.AssemblyInfoInputs.cache
+C:\Users\thelazurite\RiderProjects\MusicCleanup\ATL\obj\Debug\net46\ATL.AssemblyInfo.cs
+C:\Users\thelazurite\RiderProjects\MusicCleanup\ATL\obj\Debug\net46\ATL.dll
+C:\Users\thelazurite\RiderProjects\MusicCleanup\ATL\obj\Debug\net46\ATL.pdb

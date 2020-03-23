@@ -1,0 +1,4 @@
+C:\Users\thelazurite\RiderProjects\MusicCleanup\MusicCleanup\obj\Debug\netstandard2.0\MusicCleanup.csprojAssemblyReference.cache
+C:\Users\thelazurite\RiderProjects\MusicCleanup\MusicCleanup\obj\Debug\netstandard2.0\MusicCleanup.csproj.CoreCompileInputs.cache
+C:\Users\thelazurite\RiderProjects\MusicCleanup\MusicCleanup\obj\Debug\netstandard2.0\MusicCleanup.AssemblyInfoInputs.cache
+C:\Users\thelazurite\RiderProjects\MusicCleanup\MusicCleanup\obj\Debug\netstandard2.0\MusicCleanup.AssemblyInfo.cs

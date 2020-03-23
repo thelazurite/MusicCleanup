@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.Rider2018.1/system/resharper-host/local/Transient/ReSharperHost/v12/SolutionCaches/_MusicCleanup.-1993690746.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="ModifiedAtl" t="IncludeRecursive">
+        <e p="AudioData" t="Include">
+          <e p="AudioDataCorruptionException.cs" t="Include" />
+          <e p="AudioDataManager.cs" t="Include" />
+          <e p="AudioFileIO.cs" t="Include" />
+          <e p="CrossMetadataReader.cs" t="Include" />
+          <e p="IO" t="Include">
+            <e p="AAC.cs" t="Include" />
+            <e p="AC3.cs" t="Include" />
+            <e p="AIFF.cs" t="Include" />
+            <e p="APEtag.cs" t="Include" />
+            <e p="Ape.cs" t="Include" />
+            <e p="DSF.cs" t="Include" />
+            <e p="DTS.cs" t="Include" />
+            <e p="DummyReader.cs" t="Include" />
+            <e p="DummyTag.cs" t="Include" />
+            <e p="FLAC.cs" t="Include" />
+            <e p="GYM.cs" t="Include" />
+            <e p="Helpers" t="Include">
+              <e p="BextTag.cs" t="Include" />
+              <e p="IXmlTag.cs" t="Include" />
+              <e p="InfoTag.cs" t="Include" />
+            </e>
+            <e p="ID3v1.cs" t="Include" />
+            <e p="ID3v2.cs" t="Include" />
+            <e p="IT.cs" t="Include" />
+            <e p="MIDI.cs" t="Include" />
+            <e p="MOD.cs" t="Include" />
+            <e p="MPEGaudio.cs" t="Include" />
+            <e p="MPEGplus.cs" t="Include" />
+            <e p="Ogg.cs" t="Include" />
+            <e p="OptimFROG.cs" t="Include" />
+            <e p="PSF.cs" t="Include" />
+            <e p="S3M.cs" t="Include" />
+            <e p="SPC.cs" t="Include" />
+            <e p="TAK.cs" t="Include" />
+            <e p="TTA.cs" t="Include" />
+            <e p="TwinVQ.cs" t="Include" />
+            <e p="VGM.cs" t="Include" />
+            <e p="VorbisTag.cs" t="Include" />
+            <e p="WAV.cs" t="Include" />
+            <e p="WAVPack.cs" t="Include" />
+            <e p="WMA.cs" t="Include" />
+            <e p="XM.cs" t="Include" />
+          </e>
+          <e p="Interfaces" t="Include">
+            <e p="IAudioDataIO.cs" t="Include" />
+            <e p="IMetaDataEmbedder.cs" t="Include" />
+            <e p="IMetaDataIO.cs" t="Include" />
+          </e>
+          <e p="MetaDataIO.cs" t="Include" />
+          <e p="MetaDataIOFactory.cs" t="Include" />
+          <e p="Utils" t="Include">
+            <e p="CRC.cs" t="Include" />
+            <e p="FileStructureHelper.cs" t="Include" />
+            <e p="TrackUtils.cs" t="Include" />
+          </e>
+        </e>
+        <e p="CatalogDataReaders" t="Include">
+          <e p="BinaryLogic" t="Include">
+            <e p="Cue.cs" t="Include" />
+            <e p="DummyReader.cs" t="Include" />
+          </e>
+          <e p="CatalogDataReaderFactory.cs" t="Include" />
+          <e p="ICatalogDataReader.cs" t="Include" />
+        </e>
+        <e p="Entities" t="Include">
+          <e p="ChapterInfo.cs" t="Include" />
+          <e p="Format.cs" t="Include" />
+          <e p="MetaFieldInfo.cs" t="Include" />
+          <e p="PictureInfo.cs" t="Include" />
+          <e p="TagData.cs" t="Include" />
+          <e p="Track.cs" t="Include" />
+        </e>
+        <e p="Factories" t="Include">
+          <e p="AudioDataIOFactory.cs" t="Include" />
+          <e p="PlaylistReaderFactory.cs" t="Include" />
+          <e p="ReaderFactory.cs" t="Include" />
+        </e>
+        <e p="Logging" t="Include">
+          <e p="ILogDevice.cs" t="Include" />
+          <e p="Log.cs" t="Include" />
+          <e p="LogDelegator.cs" t="Include" />
+        </e>
+        <e p="ModifiedAtl.csproj" t="IncludeRecursive" />
+        <e p="PlaylistReaders" t="Include">
+          <e p="IPlaylistReader.cs" t="Include" />
+          <e p="Implementations" t="Include">
+            <e p="AsxReader.cs" t="Include" />
+            <e p="B4SReader.cs" t="Include" />
+            <e p="DummyReader.cs" t="Include" />
+            <e p="M3UReader.cs" t="Include" />
+            <e p="PlsReader.cs" t="Include" />
+            <e p="SmilReader.cs" t="Include" />
+            <e p="XspfReader.cs" t="Include" />
+          </e>
+          <e p="PlaylistReader.cs" t="Include" />
+        </e>
+        <e p="Settings.cs" t="Include" />
+        <e p="Utils" t="Include">
+          <e p="BufferedBinaryReader.cs" t="Include" />
+          <e p="FNV1a.cs" t="Include" />
+          <e p="ImageUtils.cs" t="Include" />
+          <e p="StreamUtils.cs" t="Include" />
+          <e p="Utils.cs" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.0" t="Include">
+              <e p="ModifiedAtl.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="MusicCleanup" t="IncludeRecursive">
+        <e p="MusicCleanup.csproj" t="IncludeRecursive" />
+        <e p="PathUpdate.cs" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="TrackFilter.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.0" t="Include">
+              <e p="MusicCleanup.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="MusicCleanup.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

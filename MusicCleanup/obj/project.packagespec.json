@@ -1,0 +1,44 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/home/dylane/Documents/Coding Projects/MusicCleanup/MusicCleanup/MusicCleanup.csproj",
+    "projectName": "MusicCleanup",
+    "projectPath": "/home/dylane/Documents/Coding Projects/MusicCleanup/MusicCleanup/MusicCleanup.csproj",
+    "outputPath": "/home/dylane/Documents/Coding Projects/MusicCleanup/MusicCleanup/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp3.0"
+    ],
+    "frameworks": {
+      "netcoreapp3.0": {
+        "projectReferences": {
+          "/home/dylane/Documents/Coding Projects/MusicCleanup/ModifiedAtl/ModifiedAtl.csproj": {
+            "projectPath": "/home/dylane/Documents/Coding Projects/MusicCleanup/ModifiedAtl/ModifiedAtl.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp3.0": {
+      "imports": [
+        "net461",
+        "net462",
+        "net47",
+        "net471",
+        "net472",
+        "net48"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

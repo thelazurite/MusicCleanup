@@ -1,0 +1,1016 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4cdd0880-e715-42b4-a523-cfd237bdb73e" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MusicCleanup/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+              <folding>
+                <marker date="1570994825841" expanded="true" signature="6:172" ph="..." />
+                <marker date="1570994825841" expanded="true" signature="232:15136" ph="{...}" />
+                <marker date="1570994825841" expanded="true" signature="855:7630" ph="{...}" />
+                <marker date="1570994825841" expanded="true" signature="1838:1907" ph="{...}" />
+                <marker date="1570994825841" expanded="true" signature="2185:2256" ph="{...}" />
+                <marker date="1570994825841" expanded="true" signature="2334:2500" ph="{...}" />
+                <marker date="1570994825841" expanded="true" signature="2902:4813" ph="{...}" />
+                <marker date="1570994825841" expanded="true" signature="3532:3704" ph="{...}" />
+                <marker date="1570994825841" expanded="true" signature="3761:3930" ph="{...}" />
+                <marker date="1570994825841" expanded="true" signature="4056:4654" ph="{...}" />
+                <marker date="1570994825841" expanded="true" signature="4122:4636" ph="{...}" />
+                <marker date="1570994825841" expanded="true" signature="4277:4464" ph="{...}" />
+                <marker date="1570994825841" expanded="true" signature="4675:4799" ph="{...}" />
+                <marker date="1570994825841" expanded="true" signature="5164:7620" ph="{...}" />
+                <marker date="1570994825841" expanded="true" signature="5339:5678" ph="{...}" />
+                <marker date="1570994825841" expanded="true" signature="5397:5519" ph="{...}" />
+                <marker date="1570994825841" expanded="true" signature="5544:5660" ph="{...}" />
+                <marker date="1570994825841" expanded="true" signature="5814:5900" ph="{...}" />
+                <marker date="1570994825841" expanded="true" signature="5921:7606" ph="{...}" />
+                <marker date="1570994825841" expanded="true" signature="6245:6644" ph="{...}" />
+                <marker date="1570994825841" expanded="true" signature="6349:6457" ph="{...}" />
+                <marker date="1570994825841" expanded="true" signature="6512:6622" ph="{...}" />
+                <marker date="1570994825841" expanded="true" signature="6669:7588" ph="{...}" />
+                <marker date="1570994825841" expanded="true" signature="6807:7033" ph="{...}" />
+                <marker date="1570994825841" expanded="true" signature="7293:7401" ph="{...}" />
+                <marker date="1570994825841" expanded="true" signature="7456:7566" ph="{...}" />
+                <marker date="1570994825841" expanded="true" signature="7740:9655" ph="{...}" />
+                <marker date="1570994825841" expanded="true" signature="7874:9611" ph="{...}" />
+                <marker date="1570994825841" expanded="true" signature="8170:8353" ph="{...}" />
+                <marker date="1570994825841" expanded="true" signature="8405:8933" ph="{...}" />
+                <marker date="1570994825841" expanded="true" signature="8535:8798" ph="{...}" />
+                <marker date="1570994825841" expanded="true" signature="8624:8776" ph="{...}" />
+                <marker date="1570994825841" expanded="true" signature="8826:8915" ph="{...}" />
+                <marker date="1570994825841" expanded="true" signature="8954:9044" ph="{...}" />
+                <marker date="1570994825841" expanded="true" signature="9213:9467" ph="{...}" />
+                <marker date="1570994825841" expanded="true" signature="9288:9449" ph="{...}" />
+                <marker date="1570994825841" expanded="true" signature="9506:9597" ph="{...}" />
+                <marker date="1570994825841" expanded="true" signature="9710:10549" ph="{...}" />
+                <marker date="1570994825841" expanded="true" signature="9779:10539" ph="{...}" />
+                <marker date="1570994825841" expanded="true" signature="9936:10525" ph="{...}" />
+                <marker date="1570994825841" expanded="true" signature="10071:10278" ph="{...}" />
+                <marker date="1570994825841" expanded="true" signature="10318:10507" ph="{...}" />
+                <marker date="1570994825841" expanded="true" signature="10606:11064" ph="{...}" />
+                <marker date="1570994825841" expanded="true" signature="10681:11054" ph="{...}" />
+                <marker date="1570994825841" expanded="true" signature="10715:10836" ph="{...}" />
+                <marker date="1570994825841" expanded="true" signature="10888:11040" ph="{...}" />
+                <marker date="1570994825841" expanded="true" signature="11110:12207" ph="{...}" />
+                <marker date="1570994825841" expanded="true" signature="11179:12197" ph="{...}" />
+                <marker date="1570994825841" expanded="true" signature="11355:12183" ph="{...}" />
+                <marker date="1570994825841" expanded="true" signature="11491:11948" ph="{...}" />
+                <marker date="1570994825841" expanded="true" signature="11649:11924" ph="{...}" />
+                <marker date="1570994825841" expanded="true" signature="12005:12165" ph="{...}" />
+                <marker date="1570994825841" expanded="true" signature="12250:13149" ph="{...}" />
+                <marker date="1570994825841" expanded="true" signature="12451:13139" ph="{...}" />
+                <marker date="1570994825841" expanded="true" signature="12609:12968" ph="{...}" />
+                <marker date="1570994825841" expanded="true" signature="12676:12817" ph="{...}" />
+                <marker date="1570994825841" expanded="true" signature="12842:12950" ph="{...}" />
+                <marker date="1570994825841" expanded="true" signature="12989:13125" ph="{...}" />
+                <marker date="1570994825841" expanded="true" signature="13193:14157" ph="{...}" />
+                <marker date="1570994825841" expanded="true" signature="13439:14147" ph="{...}" />
+                <marker date="1570994825841" expanded="true" signature="13597:13923" ph="{...}" />
+                <marker date="1570994825841" expanded="true" signature="13664:13809" ph="{...}" />
+                <marker date="1570994825841" expanded="true" signature="14216:14355" ph="{...}" />
+                <marker date="1570994825841" expanded="true" signature="14419:14633" ph="{...}" />
+                <marker date="1570994825841" expanded="true" signature="14688:15130" ph="{...}" />
+                <marker date="1570994825841" expanded="true" signature="14714:14983" ph="{...}" />
+                <marker date="1570994825841" expanded="true" signature="14800:14967" ph="{...}" />
+                <marker date="1570994825841" expanded="true" signature="15031:15120" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MusicCleanup.csproj" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MusicCleanup/MusicCleanup.csproj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TrackFilter.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MusicCleanup/TrackFilter.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="56" column="68" selection-start-line="56" selection-start-column="68" selection-end-line="56" selection-end-column="68" />
+              <folding>
+                <marker date="1547900910000" expanded="false" signature="6:96" ph="..." />
+                <marker date="1547900910000" expanded="true" signature="151:1566" ph="{...}" />
+                <marker date="1547900910000" expanded="true" signature="547:808" ph="{...}" />
+                <marker date="1547900910000" expanded="true" signature="837:1096" ph="{...}" />
+                <marker date="1547900910000" expanded="true" signature="1125:1282" ph="{...}" />
+                <marker date="1547900910000" expanded="true" signature="1312:1398" ph="{...}" />
+                <marker date="1547900910000" expanded="true" signature="1604:1892" ph="{...}" />
+                <marker date="1547900910000" expanded="true" signature="1672:1882" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Path.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F22EE0A0-2E2B-4416-92D0-68E801B4BBFA/a0/5b3add83/Path.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2943">
+              <caret line="207" column="45" selection-start-line="207" selection-start-column="41" selection-end-line="207" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ModifiedAtl.csproj" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ModifiedAtl/ModifiedAtl.csproj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="19" column="46" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Settings.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ModifiedAtl/Settings.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="25" column="91" selection-start-line="25" selection-start-column="91" selection-end-line="25" selection-end-column="91" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AudioDataIOFactory.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ModifiedAtl/Factories/AudioDataIOFactory.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="B4SReader.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ModifiedAtl/PlaylistReaders/Implementations/B4SReader.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="M3UReader.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ModifiedAtl/PlaylistReaders/Implementations/M3UReader.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="34" column="9" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PathUpdate.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MusicCleanup/PathUpdate.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>attempt was made to</find>
+      <find>An attempt was made to move the file pointer before the beginning of the file : '</find>
+      <find>appears to</find>
+      <find>tostrea</find>
+      <find>nullterminate</find>
+      <find>fpl</find>
+      <find>couldn't access</find>
+    </findStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F22EE0A0-2E2B-4416-92D0-68E801B4BBFA/a0/5b3add83/Path.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ModifiedAtl/AudioData/Utils/FileStructureHelper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ModifiedAtl/Utils/StreamUtils.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ModifiedAtl/Factories/PlaylistReaderFactory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ModifiedAtl/Utils/BufferedBinaryReader.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ModifiedAtl/Factories/ReaderFactory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ModifiedAtl/Utils/Utils.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ModifiedAtl/Factories/AudioDataIOFactory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ModifiedAtl/Logging/Log.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ModifiedAtl/PlaylistReaders/PlaylistReader.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ModifiedAtl/PlaylistReaders/IPlaylistReader.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ModifiedAtl/PlaylistReaders/Implementations/SmilReader.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ModifiedAtl/Entities/Track.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ModifiedAtl/PlaylistReaders/Implementations/PlsReader.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ModifiedAtl/PlaylistReaders/Implementations/M3UReader.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ModifiedAtl/PlaylistReaders/Implementations/XspfReader.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ModifiedAtl/Entities/Format.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ModifiedAtl/PlaylistReaders/Implementations/B4SReader.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ModifiedAtl/PlaylistReaders/Implementations/AsxReader.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ModifiedAtl/PlaylistReaders/Implementations/DummyReader.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ModifiedAtl/CatalogDataReaders/CatalogDataReaderFactory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ModifiedAtl/AudioData/AudioDataManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ModifiedAtl/AudioData/CrossMetadataReader.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ModifiedAtl/CatalogDataReaders/BinaryLogic/Cue.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ModifiedAtl/AudioData/AudioFileIO.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MusicCleanup/TrackFilter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ModifiedAtl/AudioData/MetaDataIOFactory.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ModifiedAtl/AudioData/AudioDataCorruptionException.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ModifiedAtl/AudioData/MetaDataIO.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MusicCleanup/PathUpdate.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ModifiedAtl/AudioData/IO/AAC.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ModifiedAtl/AudioData/IO/ID3v2.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MusicCleanup/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ModifiedAtl/AudioData/IO/FLAC.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ModifiedAtl/AudioData/IO/Ogg.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ModifiedAtl/AudioData/IO/MIDI.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ModifiedAtl/AudioData/IO/DummyTag.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ModifiedAtl/AudioData/IO/SPC.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ModifiedAtl/Settings.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ModifiedAtl/AudioData/IO/ID3v1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ModifiedAtl/AudioData/IO/XM.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/JAudioTags.Core/Class1.cs" />
+        <option value="$PROJECT_DIR$/JAudioTags.Core/M3u.cs" />
+        <option value="$PROJECT_DIR$/JAudioTags.Core/Implementations/Flac/BlockHeaderType.cs" />
+        <option value="$PROJECT_DIR$/JAudioTags.Core/Abstract/TagType.cs" />
+        <option value="$USER_HOME$/Downloads/Telegram Desktop/dev-web-editor/Solution/web-editor/Models/RenameModel.cs" />
+        <option value="$PROJECT_DIR$/JAudioTags.Core/Implementations/Mp3/V23FileHeader.cs" />
+        <option value="$PROJECT_DIR$/JAudioTags.Core/Abstract/ByteSource.cs" />
+        <option value="$PROJECT_DIR$/MusicCleanup/Interface/IPlaylist.cs" />
+        <option value="$PROJECT_DIR$/MusicCleanup/Playlist/Interface/IPlaylist.cs" />
+        <option value="$PROJECT_DIR$/MusicCleanup/Playlist/Implementations/M3uPlaylist.cs" />
+        <option value="$PROJECT_DIR$/MusicCleanup/Playlist/MimeHelper.cs" />
+        <option value="$PROJECT_DIR$/ATL/Entities/Format.cs" />
+        <option value="$PROJECT_DIR$/ATL/ReaderFactory.cs" />
+        <option value="$PROJECT_DIR$/ATL/Utils/BufferedBinaryReader.cs" />
+        <option value="$PROJECT_DIR$/ATL/AudioData/AudioDataCorruptionException.cs" />
+        <option value="$PROJECT_DIR$/ATL/AudioData/AudioDataManager.cs" />
+        <option value="$PROJECT_DIR$/ATL/AudioData/AudioFileIO.cs" />
+        <option value="$PROJECT_DIR$/ATL/AudioData/IO/FLAC.cs" />
+        <option value="$PROJECT_DIR$/ATL/AudioData/IO/Ogg.cs" />
+        <option value="$PROJECT_DIR$/ATL/AudioData/CrossMetadataReader.cs" />
+        <option value="$PROJECT_DIR$/MusicCleanup/Playlist/Implementations/Playlist.cs" />
+        <option value="$PROJECT_DIR$/ATL/PlaylistReaders/PlaylistReaderFactory.cs" />
+        <option value="$PROJECT_DIR$/ATL/PlaylistReaders/BinaryLogic/ASXReader.cs" />
+        <option value="$PROJECT_DIR$/ATL/PlaylistReaders/BinaryLogic/B4SReader.cs" />
+        <option value="$PROJECT_DIR$/ATL/PlaylistReaders/BinaryLogic/DummyReader.cs" />
+        <option value="$PROJECT_DIR$/ATL/PlaylistReaders/BinaryLogic/M3UReader.cs" />
+        <option value="$PROJECT_DIR$/ATL/PlaylistReaders/BinaryLogic/PLSReader.cs" />
+        <option value="$PROJECT_DIR$/ATL/PlaylistReaders/BinaryLogic/SMILReader.cs" />
+        <option value="$PROJECT_DIR$/ATL/PlaylistReaders/BinaryLogic/XSPFReader.cs" />
+        <option value="$PROJECT_DIR$/ATL/Utils/StreamUtils.cs" />
+        <option value="$PROJECT_DIR$/ATL/PlaylistReaders/Implementations/SMILReader.cs" />
+        <option value="$PROJECT_DIR$/ATL/Utils/Utils.cs" />
+        <option value="$PROJECT_DIR$/MusicCleanup/PathUpdate.cs" />
+        <option value="$PROJECT_DIR$/ATL/PlaylistReaders/IPlaylistReader.cs" />
+        <option value="$PROJECT_DIR$/ATL/PlaylistReaders/Implementations/DummyReader.cs" />
+        <option value="$PROJECT_DIR$/ATL/PlaylistReaders/Implementations/PlsReader.cs" />
+        <option value="$PROJECT_DIR$/ATL/PlaylistReaders/Implementations/SmilReader.cs" />
+        <option value="$PROJECT_DIR$/ATL/PlaylistReaders/Implementations/B4SReader.cs" />
+        <option value="$PROJECT_DIR$/ATL/PlaylistReaders/Implementations/AsxReader.cs" />
+        <option value="$PROJECT_DIR$/ATL/PlaylistReaders/Implementations/M3UReader.cs" />
+        <option value="$PROJECT_DIR$/ATL/PlaylistReaders/PlaylistReader.cs" />
+        <option value="$PROJECT_DIR$/ATL/PlaylistReaders/Implementations/XspfReader.cs" />
+        <option value="$PROJECT_DIR$/MusicCleanup/TrackFilter.cs" />
+        <option value="$PROJECT_DIR$/ModifiedAtl/Settings.cs" />
+        <option value="$PROJECT_DIR$/ModifiedAtl/AudioData/IO/DummyTag.cs" />
+        <option value="$PROJECT_DIR$/ModifiedAtl/AudioData/AudioFileIO.cs" />
+        <option value="$PROJECT_DIR$/ModifiedAtl/Factories/AudioDataIOFactory.cs" />
+        <option value="$PROJECT_DIR$/ModifiedAtl/ModifiedAtl.csproj" />
+        <option value="$PROJECT_DIR$/MusicCleanup/MusicCleanup.csproj" />
+        <option value="$PROJECT_DIR$/MusicCleanup/Program.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="88" />
+    <option name="width" value="1014" />
+    <option name="height" value="555" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="MusicCleanup (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="MusicCleanup (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="ModifiedAtl (has missing packages)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="MusicCleanup (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="ModifiedAtl (has missing packages)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Dependencies" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="MusicCleanup (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="ModifiedAtl (has missing packages)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Dependencies" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name=".NETCoreApp 3" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="MusicCleanup (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="MusicCleanup" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="do_not_show_solution_notification" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ATL/ATL.csproj" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/MusicCleanup/bin/Debug/netcoreapp2.1/MusicCleanup.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MusicCleanup" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
+        <env name="ASPNETCORE_URLS" value="http://localhost:5000" />
+      </envs>
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/MusicCleanup/MusicCleanup.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.1" />
+      <browser url="http://localhost:5000" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4cdd0880-e715-42b4-a523-cfd237bdb73e" name="Default Changelist" comment="" />
+      <created>1543345430335</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1543345430335</updated>
+      <workItem from="1543345433138" duration="16134000" />
+      <workItem from="1543415558169" duration="22521000" />
+      <workItem from="1543450078780" duration="22575000" />
+      <workItem from="1543519571434" duration="9687000" />
+      <workItem from="1543543405869" duration="13635000" />
+      <workItem from="1543613957685" duration="2659000" />
+      <workItem from="1543636990574" duration="13329000" />
+      <workItem from="1543867891970" duration="1649000" />
+      <workItem from="1543956096727" duration="8632000" />
+      <workItem from="1545197205287" duration="533000" />
+      <workItem from="1547900192702" duration="2082000" />
+      <workItem from="1570982867250" duration="810000" />
+      <workItem from="1570983881940" duration="79000" />
+      <workItem from="1570984302655" duration="927000" />
+      <workItem from="1570985419895" duration="1207000" />
+      <workItem from="1570987027314" duration="637000" />
+      <workItem from="1570987702369" duration="710000" />
+      <workItem from="1570993825119" duration="1322000" />
+      <workItem from="1570995169075" duration="109000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="119237000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="25" width="1360" height="743" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4922879" weight="0.32934928" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.17123288" side_tool="true" weight="0.3283582" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" sideWeight="0.49357328" weight="0.32934928" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.8287671" weight="0.3283582" />
+      <window_info anchor="bottom" id="Terminal" order="13" sideWeight="0.49421594" weight="0.32934928" />
+      <window_info anchor="bottom" id="NuGet" order="7" sideWeight="0.4903599" weight="0.32934928" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26479515" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.76606685" weight="0.32802126" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" sideWeight="0.49485862" weight="0.32934928" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Change Signature" order="16" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="15" sideWeight="0.42159384" weight="0.32802126" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32934928" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="6" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="bottom" id="NuGet" order="7" sideWeight="0.4903599" weight="0.32934928" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" sideWeight="0.49485862" weight="0.32934928" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49871466" weight="0.32934928" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22686376" />
+      <window_info anchor="bottom" id="Change Signature" order="16" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4922879" weight="0.32934928" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" sideWeight="0.49357328" weight="0.32934928" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="bottom" id="Terminal" order="13" sideWeight="0.49421594" weight="0.32934928" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.76606685" visible="true" weight="0.34130147" />
+      <window_info anchor="bottom" id="Build" order="15" sideWeight="0.42159384" weight="0.32934928" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.23393317" side_tool="true" visible="true" weight="0.34130147" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="6" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/JAudioTags.Core/Implementations/Mp3/V23FileHeader.cs</url>
+          <line>118</line>
+          <properties documentPath="$PROJECT_DIR$/JAudioTags.Core/Implementations/Mp3/V23FileHeader.cs" initialLine="68" />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/ModifiedAtl/PlaylistReaders/Implementations/M3UReader.cs</url>
+          <line>17</line>
+          <properties documentPath="$PROJECT_DIR$/ATL/PlaylistReaders/BinaryLogic/M3UReader.cs" initialLine="16" />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/ModifiedAtl/PlaylistReaders/Implementations/XspfReader.cs</url>
+          <line>21</line>
+          <properties documentPath="$PROJECT_DIR$/ATL/PlaylistReaders/BinaryLogic/XSPFReader.cs" initialLine="21" />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/MusicCleanup/Program.cs</url>
+          <line>189</line>
+          <properties documentPath="$PROJECT_DIR$/MusicCleanup/Program.cs" initialLine="129">
+            <startOffsets>
+              <startOffset value="7629" />
+            </startOffsets>
+            <endOffsets>
+              <endOffset value="7630" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/ModifiedAtl/PlaylistReaders/Implementations/M3UReader.cs</url>
+          <line>19</line>
+          <properties documentPath="$PROJECT_DIR$/ATL/PlaylistReaders/Implementations/M3UReader.cs" initialLine="18" />
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/ModifiedAtl/PlaylistReaders/Implementations/XspfReader.cs</url>
+          <line>109</line>
+          <properties documentPath="$PROJECT_DIR$/ATL/PlaylistReaders/Implementations/XspfReader.cs" initialLine="109" />
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/MusicCleanup/Program.cs</url>
+          <line>128</line>
+          <properties documentPath="$PROJECT_DIR$/MusicCleanup/Program.cs" initialLine="128">
+            <startOffsets>
+              <startOffset value="5177" />
+            </startOffsets>
+            <endOffsets>
+              <endOffset value="5178" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="DotNetProject">
+        <watch expression="[0]" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>System.Text.Encoding.UTF8.GetString(TheReader.GetBytes(12125770));</expression-string>
+        <language-id>C#</language-id>
+        <custom-info>RiderImportsList:</custom-info>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="setValue">
+      <expression>
+        <expression-string>&quot;.mp3&quot;</expression-string>
+        <language-id>C#</language-id>
+        <custom-info>RiderImportsList:</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>ImportDirectories</expression-string>
+        <language-id>C#</language-id>
+        <custom-info>RiderImportsList:</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>ImportDirectories.Values</expression-string>
+        <language-id>C#</language-id>
+        <custom-info>RiderImportsList:</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>pl</expression-string>
+        <language-id>C#</language-id>
+        <custom-info>RiderImportsList:</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>pl.</expression-string>
+        <language-id>C#</language-id>
+        <custom-info>RiderImportsList:</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Directory.GetFiles(key)</expression-string>
+        <language-id>C#</language-id>
+        <custom-info>RiderImportsList:</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>delta*-1</expression-string>
+        <language-id>C#</language-id>
+        <custom-info>RiderImportsList:</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>MimeTypeMap.List.MimeList.Mappings.Values</expression-string>
+        <language-id>C#</language-id>
+        <custom-info>RiderImportsList:</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>MimeTypeMap.List.MimeList.Mappings.Keys</expression-string>
+        <language-id>C#</language-id>
+        <custom-info>RiderImportsList:</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>fmts.SingleOrDefault(itm =&gt; itm.IsValidExtension(&quot;.M4a&quot;));</expression-string>
+        <language-id>C#</language-id>
+        <custom-info>RiderImportsList:</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ModifiedAtl/Utils/BufferedBinaryReader.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-28">
+          <caret line="133" column="16" selection-start-line="133" selection-start-column="16" selection-end-line="133" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MusicCleanup/Playlist/MimeHelper.cs" />
+    <entry file="file://$PROJECT_DIR$/ModifiedAtl/Entities/Format.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="55" column="21" selection-start-line="55" selection-start-column="21" selection-end-line="55" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MusicCleanup/Playlist/Interface/IPlaylist.cs" />
+    <entry file="file://$PROJECT_DIR$/ModifiedAtl/AudioData/IO/Ogg.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5460">
+          <caret line="406" column="33" selection-start-line="406" selection-start-column="33" selection-end-line="406" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ModifiedAtl/AudioData/CrossMetadataReader.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-52">
+          <caret line="458" selection-start-line="458" selection-end-line="458" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MusicCleanup/Playlist/Implementations/Playlist.cs" />
+    <entry file="file://$PROJECT_DIR$/ModifiedAtl/AudioData/IO/XM.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="321" column="48" lean-forward="true" selection-start-line="321" selection-start-column="48" selection-end-line="321" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ATL/PlaylistReaders/BinaryLogic/FPLReader.cs" />
+    <entry file="file://$PROJECT_DIR$/ModifiedAtl/AudioData/IO/AAC.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="162" column="19" selection-start-line="162" selection-start-column="19" selection-end-line="162" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C9264D83-8B1E-4175-B5D0-CB3072073C59/b5/9856c29b/Console.cs" />
+    <entry file="file://$PROJECT_DIR$/ModifiedAtl/Factories/PlaylistReaderFactory.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="71" column="31" selection-start-line="71" selection-start-column="31" selection-end-line="71" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ModifiedAtl/Factories/ReaderFactory.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-270">
+          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ModifiedAtl/Utils/StreamUtils.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="31">
+          <caret line="860" column="50" selection-start-line="860" selection-start-column="50" selection-end-line="860" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ModifiedAtl/Entities/Track.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1119">
+          <caret line="48" column="36" lean-forward="true" selection-start-line="48" selection-start-column="36" selection-end-line="48" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ModifiedAtl/Logging/Log.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-720">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ModifiedAtl/CatalogDataReaders/CatalogDataReaderFactory.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ModifiedAtl/CatalogDataReaders/BinaryLogic/Cue.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-945">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ModifiedAtl/AudioData/Utils/FileStructureHelper.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="795">
+          <caret line="61" column="21" selection-start-line="61" selection-start-column="21" selection-end-line="61" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ModifiedAtl/Utils/Utils.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4860">
+          <caret line="340" selection-start-line="340" selection-end-line="340" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ModifiedAtl/AudioData/IO/ID3v2.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12120">
+          <caret line="853" column="12" selection-start-line="853" selection-start-column="12" selection-end-line="853" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/23DE3570-19E2-4C93-ABF2-959BE664CA2B/c2/439c4591/Directory.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/341DFE22-562E-4DB3-8729-B233A8CD1A5F/2a/58fba14c/ExceptionDispatchInfo.cs" />
+    <entry file="file://$PROJECT_DIR$/JAudioTags.Core/Implementations/Mp3/Mp3File.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/341DFE22-562E-4DB3-8729-B233A8CD1A5F/e9/04d7cc38/Path.cs" />
+    <entry file="file://$PROJECT_DIR$/ModifiedAtl/AudioData/IO/FLAC.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="60" column="35" selection-start-line="60" selection-start-column="35" selection-end-line="60" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/341DFE22-562E-4DB3-8729-B233A8CD1A5F/b6/8d938c20/Thread.cs" />
+    <entry file="file://$PROJECT_DIR$/ModifiedAtl/PlaylistReaders/Implementations/DummyReader.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ModifiedAtl/PlaylistReaders/Implementations/AsxReader.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ModifiedAtl/PlaylistReaders/IPlaylistReader.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="36" column="16" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/341DFE22-562E-4DB3-8729-B233A8CD1A5F/54/f66d4bc4/TextWriter.cs" />
+    <entry file="file://$PROJECT_DIR$/ModifiedAtl/PlaylistReaders/Implementations/SmilReader.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="31" column="32" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ModifiedAtl/PlaylistReaders/Implementations/XspfReader.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1425">
+          <caret line="109" column="16" selection-start-line="109" selection-start-column="16" selection-end-line="109" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ModifiedAtl/PlaylistReaders/Implementations/PlsReader.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="26" column="31" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ModifiedAtl/PlaylistReaders/PlaylistReader.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="45" column="13" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/23DE3570-19E2-4C93-ABF2-959BE664CA2B/3c/0ed5f06c/File.cs" />
+    <entry file="file://$PROJECT_DIR$/ModifiedAtl/AudioData/MetaDataIOFactory.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1905">
+          <caret line="127" column="68" selection-start-line="127" selection-start-column="68" selection-end-line="127" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ModifiedAtl/AudioData/IO/DummyTag.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="40" column="29" selection-start-line="40" selection-start-column="29" selection-end-line="40" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ModifiedAtl/AudioData/AudioFileIO.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="36" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ModifiedAtl/Factories/AudioDataIOFactory.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ModifiedAtl/PlaylistReaders/Implementations/B4SReader.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ModifiedAtl/PlaylistReaders/Implementations/M3UReader.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="34" column="9" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MusicCleanup/PathUpdate.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/toil.txt" />
+    <entry file="file://$PROJECT_DIR$/ModifiedAtl/Settings.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="25" column="91" selection-start-line="25" selection-start-column="91" selection-end-line="25" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/341DFE22-562E-4DB3-8729-B233A8CD1A5F/3d/930d988d/ExceptionDispatchInfo.cs" />
+    <entry file="file://$PROJECT_DIR$/ModifiedAtl/ModifiedAtl.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="19" column="46" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MusicCleanup/MusicCleanup.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MusicCleanup/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <folding>
+            <marker date="1570994825841" expanded="true" signature="6:172" ph="..." />
+            <marker date="1570994825841" expanded="true" signature="232:15136" ph="{...}" />
+            <marker date="1570994825841" expanded="true" signature="855:7630" ph="{...}" />
+            <marker date="1570994825841" expanded="true" signature="1838:1907" ph="{...}" />
+            <marker date="1570994825841" expanded="true" signature="2185:2256" ph="{...}" />
+            <marker date="1570994825841" expanded="true" signature="2334:2500" ph="{...}" />
+            <marker date="1570994825841" expanded="true" signature="2902:4813" ph="{...}" />
+            <marker date="1570994825841" expanded="true" signature="3532:3704" ph="{...}" />
+            <marker date="1570994825841" expanded="true" signature="3761:3930" ph="{...}" />
+            <marker date="1570994825841" expanded="true" signature="4056:4654" ph="{...}" />
+            <marker date="1570994825841" expanded="true" signature="4122:4636" ph="{...}" />
+            <marker date="1570994825841" expanded="true" signature="4277:4464" ph="{...}" />
+            <marker date="1570994825841" expanded="true" signature="4675:4799" ph="{...}" />
+            <marker date="1570994825841" expanded="true" signature="5164:7620" ph="{...}" />
+            <marker date="1570994825841" expanded="true" signature="5339:5678" ph="{...}" />
+            <marker date="1570994825841" expanded="true" signature="5397:5519" ph="{...}" />
+            <marker date="1570994825841" expanded="true" signature="5544:5660" ph="{...}" />
+            <marker date="1570994825841" expanded="true" signature="5814:5900" ph="{...}" />
+            <marker date="1570994825841" expanded="true" signature="5921:7606" ph="{...}" />
+            <marker date="1570994825841" expanded="true" signature="6245:6644" ph="{...}" />
+            <marker date="1570994825841" expanded="true" signature="6349:6457" ph="{...}" />
+            <marker date="1570994825841" expanded="true" signature="6512:6622" ph="{...}" />
+            <marker date="1570994825841" expanded="true" signature="6669:7588" ph="{...}" />
+            <marker date="1570994825841" expanded="true" signature="6807:7033" ph="{...}" />
+            <marker date="1570994825841" expanded="true" signature="7293:7401" ph="{...}" />
+            <marker date="1570994825841" expanded="true" signature="7456:7566" ph="{...}" />
+            <marker date="1570994825841" expanded="true" signature="7740:9655" ph="{...}" />
+            <marker date="1570994825841" expanded="true" signature="7874:9611" ph="{...}" />
+            <marker date="1570994825841" expanded="true" signature="8170:8353" ph="{...}" />
+            <marker date="1570994825841" expanded="true" signature="8405:8933" ph="{...}" />
+            <marker date="1570994825841" expanded="true" signature="8535:8798" ph="{...}" />
+            <marker date="1570994825841" expanded="true" signature="8624:8776" ph="{...}" />
+            <marker date="1570994825841" expanded="true" signature="8826:8915" ph="{...}" />
+            <marker date="1570994825841" expanded="true" signature="8954:9044" ph="{...}" />
+            <marker date="1570994825841" expanded="true" signature="9213:9467" ph="{...}" />
+            <marker date="1570994825841" expanded="true" signature="9288:9449" ph="{...}" />
+            <marker date="1570994825841" expanded="true" signature="9506:9597" ph="{...}" />
+            <marker date="1570994825841" expanded="true" signature="9710:10549" ph="{...}" />
+            <marker date="1570994825841" expanded="true" signature="9779:10539" ph="{...}" />
+            <marker date="1570994825841" expanded="true" signature="9936:10525" ph="{...}" />
+            <marker date="1570994825841" expanded="true" signature="10071:10278" ph="{...}" />
+            <marker date="1570994825841" expanded="true" signature="10318:10507" ph="{...}" />
+            <marker date="1570994825841" expanded="true" signature="10606:11064" ph="{...}" />
+            <marker date="1570994825841" expanded="true" signature="10681:11054" ph="{...}" />
+            <marker date="1570994825841" expanded="true" signature="10715:10836" ph="{...}" />
+            <marker date="1570994825841" expanded="true" signature="10888:11040" ph="{...}" />
+            <marker date="1570994825841" expanded="true" signature="11110:12207" ph="{...}" />
+            <marker date="1570994825841" expanded="true" signature="11179:12197" ph="{...}" />
+            <marker date="1570994825841" expanded="true" signature="11355:12183" ph="{...}" />
+            <marker date="1570994825841" expanded="true" signature="11491:11948" ph="{...}" />
+            <marker date="1570994825841" expanded="true" signature="11649:11924" ph="{...}" />
+            <marker date="1570994825841" expanded="true" signature="12005:12165" ph="{...}" />
+            <marker date="1570994825841" expanded="true" signature="12250:13149" ph="{...}" />
+            <marker date="1570994825841" expanded="true" signature="12451:13139" ph="{...}" />
+            <marker date="1570994825841" expanded="true" signature="12609:12968" ph="{...}" />
+            <marker date="1570994825841" expanded="true" signature="12676:12817" ph="{...}" />
+            <marker date="1570994825841" expanded="true" signature="12842:12950" ph="{...}" />
+            <marker date="1570994825841" expanded="true" signature="12989:13125" ph="{...}" />
+            <marker date="1570994825841" expanded="true" signature="13193:14157" ph="{...}" />
+            <marker date="1570994825841" expanded="true" signature="13439:14147" ph="{...}" />
+            <marker date="1570994825841" expanded="true" signature="13597:13923" ph="{...}" />
+            <marker date="1570994825841" expanded="true" signature="13664:13809" ph="{...}" />
+            <marker date="1570994825841" expanded="true" signature="14216:14355" ph="{...}" />
+            <marker date="1570994825841" expanded="true" signature="14419:14633" ph="{...}" />
+            <marker date="1570994825841" expanded="true" signature="14688:15130" ph="{...}" />
+            <marker date="1570994825841" expanded="true" signature="14714:14983" ph="{...}" />
+            <marker date="1570994825841" expanded="true" signature="14800:14967" ph="{...}" />
+            <marker date="1570994825841" expanded="true" signature="15031:15120" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MusicCleanup/TrackFilter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="56" column="68" selection-start-line="56" selection-start-column="68" selection-end-line="56" selection-end-column="68" />
+          <folding>
+            <marker date="1547900910000" expanded="false" signature="6:96" ph="..." />
+            <marker date="1547900910000" expanded="true" signature="151:1566" ph="{...}" />
+            <marker date="1547900910000" expanded="true" signature="547:808" ph="{...}" />
+            <marker date="1547900910000" expanded="true" signature="837:1096" ph="{...}" />
+            <marker date="1547900910000" expanded="true" signature="1125:1282" ph="{...}" />
+            <marker date="1547900910000" expanded="true" signature="1312:1398" ph="{...}" />
+            <marker date="1547900910000" expanded="true" signature="1604:1892" ph="{...}" />
+            <marker date="1547900910000" expanded="true" signature="1672:1882" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F22EE0A0-2E2B-4416-92D0-68E801B4BBFA/a0/5b3add83/Path.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2943">
+          <caret line="207" column="45" selection-start-line="207" selection-start-column="41" selection-end-line="207" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

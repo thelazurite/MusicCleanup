@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "MusicCleanup/1.0.0": {
+        "dependencies": {
+          "z440.atl.core": "2.5.0"
+        },
+        "runtime": {
+          "MusicCleanup.dll": {}
+        }
+      },
+      "z440.atl.core/2.5.0": {
+        "runtime": {
+          "ModifiedATL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MusicCleanup/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "z440.atl.core/2.5.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
